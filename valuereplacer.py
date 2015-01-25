@@ -33,7 +33,7 @@ for i in range(len(commands)):
 		print '- [2] Is the variable to look for'
 		print '- [3] Is the separator between the variable and the value'
 		print '- [4] Is the new value'
-		print '- Example: test.txt value1 = 1'
+		print '- Example: test.txt apple = 1'
 		os.execl('valuereplacer.py', '')
 
 

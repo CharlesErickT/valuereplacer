@@ -55,4 +55,3 @@ elif value not in open(filename).read():
 else:
 	modifyValue(filename,value,sep,newValue)
 
-#By Charles-Erick Tremblay

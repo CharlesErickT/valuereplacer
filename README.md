@@ -14,6 +14,5 @@ You can specify the separator / : , or anything you like <br />
 
 
 
-By Charles-Erick Tremblay
 
 
